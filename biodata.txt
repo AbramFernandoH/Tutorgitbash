@@ -1,2 +1,3 @@
 NO.REG	= 1820010002
 Nama	= Abram Fernando Haullussy
+Jurusan	= TI REGULER
